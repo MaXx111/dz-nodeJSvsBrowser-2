@@ -1,0 +1,23 @@
+{
+  "name": "dz-nodejsvsbrowser-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaXx111/dz-nodeJSvsBrowser-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaXx111/dz-nodeJSvsBrowser-2/issues"
+  },
+  "homepage": "https://github.com/MaXx111/dz-nodeJSvsBrowser-2#readme",
+  "dependencies": {
+    "@maxx111/dz-nodejsvsbrowser": "^1.0.0"
+  }
+}
